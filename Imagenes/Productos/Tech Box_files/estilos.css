@@ -1,0 +1,45 @@
+.div {
+	
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left:10px;
+    padding-right:10px;
+}
+
+.Icon {
+    padding-bottom: 5px;
+}
+
+
+.logo2 {
+	padding-left: 40px;
+    padding-top: 25x;
+}
+
+#contacto, #pie {
+	background-color: #000000;
+	color: #cacaca;
+}
+
+#formulario {
+	padding-top: 20px;
+	padding-bottom: 20px;	
+}
+
+.espacio {
+	padding-left: 25px;
+}
+
+.required {
+    color: red;
+    font-family: Merriweather,Georgia,serif;
+}
+
+.titulo {
+    padding-top: 50px;
+    margin-top: 20px;
+}
+
+.p {
+    margin-right: 0px, !important;
+}
